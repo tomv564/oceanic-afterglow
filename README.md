@@ -1,4 +1,13 @@
-# Afterglow
+# Oceanic Afterglow
+
+This is the [Afterglow](http://yabatadesign.github.io/afterglow-theme/) theme adjusted to look good with the [Oceanic Next](http://labs.voronianski.com/oceanic-next-color-scheme) color scheme.
+
+Afterglow blue is mostly done.
+
+TODO: screenshot.
+
+# Afterglow (original)
+
 
 Afterglow is a minimal dark Theme for Sublime Text 2 and 3. Also it is a syntax color scheme. The theme is based on the great theme [Spacegray](https://github.com/kkga/spacegray). The syntax color scheme is mostly derived from [idlefingers](http://idlefingers.co.uk/).
 
