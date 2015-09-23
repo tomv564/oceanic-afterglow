@@ -1,10 +1,43 @@
 # Oceanic Afterglow
 
-This is the [Afterglow](http://yabatadesign.github.io/afterglow-theme/) theme adjusted to look good with the [Oceanic Next](http://labs.voronianski.com/oceanic-next-color-scheme) color scheme.
+This is the [Afterglow](http://yabatadesign.github.io/afterglow-theme/) theme adjusted to match the [Oceanic Next](http://labs.voronianski.com/oceanic-next-color-scheme) color scheme.
 
-Afterglow blue is mostly done.
+Only blue is available at the moment:
 
-TODO: screenshot.
+![](Screenshots/Oceanic-Afterglow-blue.png)
+
+### Git Installation
+
+Locate your Sublime Text `Packages directory` by using the menu item `Preferences -> Browse Packages...`.
+
+Then, clone the repository using this command:
+
+    git clone https://github.com/tomv564/oceanic-afterglow "Theme - Oceanic Afterglow"
+
+
+### Manual installation
+
+* Download the [GitHub .zip](https://github.com/tomv564/oceanic-afterglow/archive/master.zip)
+* Unzip the files and rename the folder to `Theme - Oceanic Afterglow`
+* Find your `Packages` directory using the menu item  `Preferences -> Browse Packages...`
+* Copy the folder into your Sublime Text `Packages` directory.
+
+
+## Activating the Theme
+
+Activate this theme and color scheme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User`.
+
+Then add the following code settings, depending on the theme you choose. **(After activating the theme, you must restart Sublime Text.)**
+
+
+### Settings for Oceanic-Afterglow-blue
+
+```json
+{
+    "theme": "Oceanic-Afterglow-blue.sublime-theme",
+}
+```
+
 
 # Afterglow (original)
 
