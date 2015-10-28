@@ -2,7 +2,9 @@
 
 This is the [Afterglow](http://yabatadesign.github.io/afterglow-theme/) theme adjusted to match the [Oceanic Next](http://labs.voronianski.com/oceanic-next-color-scheme) color scheme.
 
-Only blue is available at the moment:
+**Note: Default settings will result in a broken theme, see recommended settings below!**
+
+Only **blue with small tabs** (see settings!) is available at the moment:
 
 ![](Screenshots/Oceanic-Afterglow-blue.png)
 
@@ -35,6 +37,8 @@ Then add the following code settings, depending on the theme you choose. **(Afte
 ```json
 {
     "theme": "Oceanic-Afterglow-blue.sublime-theme",
+    "status_bar_brighter": true, // recommended
+    "tabs_small": true,
 }
 ```
 
